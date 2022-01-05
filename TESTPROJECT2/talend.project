@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_Y4YOQG2UEeya7aK0pNEW6g" label="TestProject2" description="ufp 1000" language="java" technicalLabel="TESTPROJECT2" author="_Y4YOQW2UEeya7aK0pNEW6g" productVersion="Talend Cloud Data Management Platform-8.0.1.20211221_0652-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ufp1000/Talend_Rep2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
-    <migrationTask xmi:id="_Y7mhYG2UEeya7aK0pNEW6g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  <TalendProperties:Project xmi:id="_tnBLEG2VEeya7aK0pNEW6g" label="TestProject2" description="ufp 1000" language="java" technicalLabel="TESTPROJECT2" author="_Y4YOQW2UEeya7aK0pNEW6g" productVersion="Talend Cloud Data Management Platform-8.0.1.20211221_0652-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ufp1000/Talend_Rep2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_tnVUIG2VEeya7aK0pNEW6g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Y4YOQW2UEeya7aK0pNEW6g" login="ufp.1000@trial06784.ap.talend.com" firstName="ufp" lastName="1000" type="DQ"/>
 </xmi:XMI>

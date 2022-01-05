@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_oS6sMW3tEeybO7nn6xLWzw" label="TestProject-01" description="Ufp Ufp" language="java" technicalLabel="TESTPROJECT_01" author="_oS6sMm3tEeybO7nn6xLWzw" productVersion="Talend Cloud Data Management Platform-8.0.1.20211221_0652-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ufp1000/Talend_Rep2.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_oXPykG3tEeybO7nn6xLWzw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_oS6sMm3tEeybO7nn6xLWzw" login="ufp10001@trial06789.ap.talend.com" firstName="Ufp" lastName="Ufp" type="DQ"/>
+</xmi:XMI>
